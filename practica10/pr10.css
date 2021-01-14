@@ -1,0 +1,16 @@
+ table#Indice
+ {
+	background-color: blue;
+	width: 900px;
+	color: yellow;
+}
+#sesión
+{
+	background-color: yellow;
+	color: blue;
+}
+
+td.derecho
+{
+	border-right: 1px;
+}
